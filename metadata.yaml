@@ -1,5 +1,5 @@
 _repo: Star-of-Panadur_62253
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Lubbers, Bob
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '51858'
     url: http://www.gutenberg.org/2009/agents/51858
     wikipedia: https://en.wikipedia.org/wiki/Bob_Lubbers
+covers:
+- cover_type: archival
+  image_path: 62253-h/images/cover.jpg
 creator:
   authors:
   - agent_name: dePina, Albert
@@ -26,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32816
     wikipedia: https://en.wikipedia.org/wiki/Henry_Hasse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62253#Star-of-Panadur
 gutenberg_issued: '2020-05-28'
 gutenberg_type: Text
 identifiers:
