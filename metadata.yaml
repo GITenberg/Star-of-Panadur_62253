@@ -1,0 +1,48 @@
+_repo: Star-of-Panadur_62253
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Lubbers, Bob
+    alias: Lubbers, Robert Bartow
+    birthdate: 1922
+    deathdate: 2017
+    gutenberg_agent_id: '51858'
+    url: http://www.gutenberg.org/2009/agents/51858
+    wikipedia: https://en.wikipedia.org/wiki/Bob_Lubbers
+creator:
+  authors:
+  - agent_name: dePina, Albert
+    aliases:
+    - Pina, Albert de
+    - dePina, Robert Albert
+    deathdate: 1957
+    gutenberg_agent_id: '51852'
+    url: http://www.gutenberg.org/2009/agents/51852
+  - agent_name: Hasse, Henry
+    alias: Hasse, Henry Louis
+    birthdate: 1913
+    deathdate: 1977
+    gutenberg_agent_id: '32816'
+    url: http://www.gutenberg.org/2009/agents/32816
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Hasse
+description: ''
+gutenberg_issued: '2020-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62253'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Parapsychology -- Fiction'
+- !lcsh 'Telepathy -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Castaways -- Fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Europa (Satellite) -- Fiction'
+- GITenberg
+title: Star of Panadur
+url: http://www.gutenberg.org/ebooks/62253
